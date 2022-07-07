@@ -1,0 +1,46 @@
+.Left_Side{
+    padding: 40px;
+    height: 100vh;
+    width: 200px;
+    border-right: 4px solid #DDDDDD;
+}
+
+.brand_name{
+    display: block;
+    width: 100px;
+}
+
+.Right_Side{
+    height: 100%;
+    width: 300px;
+    display:flex;
+}
+
+.electronicsProduct{
+    width: 250px;
+    margin: 30px;
+}
+
+.product_button{
+    background-color: #d8ab2e;
+    border: 1px solid #a13807;
+    border-radius: 8px 8px 8px 8px;
+    
+}
+
+.electronics_title{
+    font-size: 16px !important;
+    line-height: 24px !important;
+    font-weight: bold;
+}
+
+.electronics_rating{
+    display: flex;
+    font-size:10px;
+    color: #9c833c;
+}
+.electronics_price{
+    color: #a13807;
+    font-size: 20px;
+    font-weight: bold;
+}  

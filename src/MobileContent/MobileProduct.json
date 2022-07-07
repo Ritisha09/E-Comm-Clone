@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1234561,
+        "image": "https://m.media-amazon.com/images/I/716FVMg72GS._AC_UL320_.jpg",
+        "title" : "Mi 11X Pro 5G (Cosmic Black, 8GB RAM, 128GB Storage) | Snapdragon 888 | 108MP Camera |",
+        "rating": 3,
+        "EMI": "2,401",
+        "delivery": "Wednesday, August 18",
+        "status": "Out of Stock",
+        "price": "34999"
+    },
+    {
+        "id": 1234562,
+        "image": "https://m.media-amazon.com/images/I/81QVLzeVckL._AC_UY218_.jpg",
+        "title": "Samsung Galaxy S20 FE 5G (Cloud Lavender, 8GB RAM, 128GB Storage) ",
+        "rating": 4,
+        "EMI": "2,401",
+        "delivery": "Saturday, August 21",
+        "status": "In Stock",
+        "price": "36990"
+    },
+    {
+        "id": 1234563,
+        "image": "https://m.media-amazon.com/images/I/61AwGDDZd3L._AC_UY218_.jpg",
+        "title": "Apple iPhone 13 Pro (256 GB) - Alpine Green ",
+        "rating": 4,
+        "EMI": "2,401",
+        "delivery": "Monday, August 16",
+        "status": "Out of Stock",
+        "price": "129900"
+    },
+    {
+        "id": 1234564,
+        "image": "https://m.media-amazon.com/images/I/81i1A1MgXBL._AC_UY218_.jpg",
+        "title": "Samsung Galaxy A13 Blue, 4GB RAM, 64GB Storage with No Cost EMI/Additional Exchange Offers, (SM-A135FLBGINS) ",
+        "rating": 3,
+        "EMI": "2,401",
+        "delivery": "Thursday, August 25",
+        "status": "In Stock",
+        "price":"13999"
+    },
+    {
+        "id": 1234565,
+        "image": "https://m.media-amazon.com/images/I/415CE-T-xNL.jpg",
+        "title": "Vivo V23 5G (Sunshine Gold, 8GB RAM 128GB Storage)",
+        "rating": 4,
+        "EMI": "2,401",
+        "delivery": "Saturday, August 27",
+        "status": "In Stock",
+        "price":"29990"
+    },
+    {
+        "id": 1234566,
+        "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_UY218_.jpg",
+        "title": "OnePlus 9 5G (Arctic Sky,12GB RAM, 256GB Storage)",
+        "rating": 4.5,
+        "EMI": "2,401",
+        "delivery": "Monday, July 4",
+        "status": "In Stock",
+        "price":"42999"
+    }
+]
+
+
