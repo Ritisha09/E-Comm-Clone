@@ -3,7 +3,7 @@ import LeftSide from './LeftSide'
 import RightSide from './RightSide'
 import "./MobileContent.css"
 //import MobileProduct from './MobileProduct.json'
-
+//
 function MobileContent() {
   
   // const[cart,setCart] = useState()
