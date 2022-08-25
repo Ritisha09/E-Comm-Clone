@@ -11,11 +11,15 @@ import {CartContext}  from '../Context/CartContext';
 
 function MobileProducts(props) {
 
-    const { addToCart} =  useContext(CartContext);
+    const {item,addToCart} =  useContext(CartContext);
+
+    // item.map((item) =>
+    //     console.log(item.title)
+    // )
 
     const[productsLists, setProductLists] = useState([]);
     let {id} = useParams();
-   
+
     useEffect(() => {
         let mobile = MobileProduct.filter(mob => mob.id == id);
         
@@ -69,8 +73,6 @@ function MobileProducts(props) {
          
   )
 }
-
-
 
 export default MobileProducts
 

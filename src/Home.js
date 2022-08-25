@@ -25,18 +25,6 @@ function Home() {
         
       </div>
 
-      <div className="home_row">
-
-      </div>
-
-      <div className="home_row">
-
-      </div>
-
-      <div className="home_row">
-
-      </div>
-
     </div>
   );
 }

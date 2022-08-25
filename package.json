@@ -1,4 +1,5 @@
 {
+"homepage": "https://Ritisha09.github.io/Amazon-Clone",
 "name": "amazon-clone",
   
 
@@ -85,9 +86,9 @@
   
 
 "scripts": {
-    
 
-  
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",  
 
 "start": "react-scripts start",
   
