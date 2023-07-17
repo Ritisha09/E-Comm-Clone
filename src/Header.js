@@ -23,7 +23,7 @@ function Header() {
     <>
     
     {/* header component */}
-    <div className = 'header'>
+    <div className = "header">
         
         {/* 1.  amazon-logo
         2. search input field
@@ -104,3 +104,5 @@ function Header() {
 }
 
 export default Header
+
+
